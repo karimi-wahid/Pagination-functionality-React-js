@@ -1,5 +1,4 @@
-import { data } from 'autoprefixer'
-import React from 'react'
+
 
 const ImageCard = ({ data }) => {
     return (
